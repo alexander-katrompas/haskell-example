@@ -19,9 +19,11 @@ This program demonstrates several core Haskell ideas in one small file:
 
 It is not meant to be a realistic application. It is a compact teaching example.
 
-## File
+## Files
 
-- `example.hs` — the complete Haskell example program
+- `example.hs` — the complete Haskell example program with instructional comments
+- `example-no-comments.hs` — the complete Haskell example program without comments (easier to read code)
+- `Haskell_Toolchain_Setup.pdf` — A set-up guide for Ubuntu Linux
 
 ## What the Program Demonstrates
 
@@ -51,7 +53,7 @@ The example includes:
 
 ## Toolchain Setup
 
-This repository also includes a PDF handout for installing and verifying the Haskell toolchain on Ubuntu Linux.
+This repository includes a PDF handout for installing and verifying the Haskell toolchain on Ubuntu Linux.
 
 - `Haskell_Toolchain_Setup.pdf` — step-by-step setup and verification instructions for `ghc`, `ghci`, Haskell Language Server, and related tools
 
