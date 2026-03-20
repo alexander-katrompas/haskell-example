@@ -49,6 +49,14 @@ The example includes:
 - `main`  
   A simple `IO` action that runs the examples and prints the results.
 
+## Toolchain Setup
+
+This repository also includes a PDF handout for installing and verifying the Haskell toolchain on Ubuntu Linux.
+
+- `Haskell_Toolchain_Setup.pdf` — step-by-step setup and verification instructions for `ghc`, `ghci`, Haskell Language Server, and related tools
+
+Use that handout first to set up the environment, then return to this README to compile and run the example program.
+
 ## Compile
 
 Compile the program with `ghc`:
